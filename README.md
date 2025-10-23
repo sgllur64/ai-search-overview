@@ -24,8 +24,6 @@ OpenAI推出的集成搜索功能,将实时网络信息引入对话式AI体验�
 
 谷歌搜索的AI增强版本,整合Gemini模型提供深度研究能力。
 
-![Google AI Mode Screenshot](image/search.webp)
-
 
 谷歌终于拿出了自己的AI搜索方案。AI Mode使用"查询扇出"技术,把复杂问题自动拆分成多个搜索,然后综合所有结果给你答案。Gemini 2.5 Pro模型在高级推理、数学和编程问题上表现出色。Deep Search功能能浏览数百个网站、跨信息源推理,几分钟内生成全面引用的研究报告。
 
